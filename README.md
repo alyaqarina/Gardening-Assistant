@@ -1,7 +1,5 @@
-.![Garden](https://help.gardeningexpress.co.uk/wp-content/uploads/2023/03/gardening-tips-course-750px-1.jpg).
-
-
 # Gardening Assistant
+.![Garden](https://help.gardeningexpress.co.uk/wp-content/uploads/2023/03/gardening-tips-course-750px-1.jpg).
 
 Develop an intelligent gardening assistant that provides tailored gardening advice based on user inputs such as plant name, planting area / location, garden size, and season. The assistant will leverage AI to offer personalized recommendations to enhance gardening success.
 
