@@ -41,7 +41,7 @@ st.title('Gardening Assistant')
 # User inputs
 plant_name = st.text_input('Plant Name')
 location = st.text_input('Plating Area/Location')
-garden_size = st.selectbox('Garden Size', ['Pot', 'Garden'])
+garden_size = st.text_input('Your Garden Size / Pot Size')
 season = st.selectbox('Current Season', ['Summer', 'Winter', 'Fall', 'Spring'])
 
 # Generate advice
