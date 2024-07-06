@@ -16,7 +16,7 @@ To use this Gardening Assistant, user need to input their plant details/informat
 
 - Plant Name: Enter the name of the plant you want to grow (e.g., "Tomato").
 - Planting Area/Location: Input your location (e.g., "Home").
-- Garden Size: Specify the size of your garden (e.g., "5 Pot / 100 feet / etc").
+- Garden Size: Specify the size of your garden (e.g., "50 cm pot / 100 feet garden / etc").
 - Season: Select the current season (e.g., "Summer").
 
 After user input all the details, user can click button 'Get Gardening Advice'.
