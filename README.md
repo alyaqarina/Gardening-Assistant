@@ -1,3 +1,5 @@
+.![Garden](https://help.gardeningexpress.co.uk/wp-content/uploads/2023/03/gardening-tips-course-750px-1.jpg).
+
 
 # Gardening Assistant
 
@@ -21,14 +23,11 @@ To use this Gardening Assistant, user need to input their plant details/informat
 
 After user input all the details, user can click button 'Get Gardening Advice'.
 
-
 ## Features
 - Planting Instructions
 - Watering Schedule
 - Seasonal Advice
 - Additional tips
-
-
 
 ## Acknowledgements
 
