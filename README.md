@@ -31,7 +31,10 @@ After user input all the details, user can click button 'Get Gardening Advice'.
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+I would like to express my sincere gratitude to everyone who has supported me throughout the development of the Gardening Assistant.
 
+First and foremost, I would like to thank **AI Nusantara**, an initiative by **Selangor Digital School**, for providing the exceptional training program, **'AI in Application Design.'** The knowledge and skills I have gained through this program have been invaluable in bringing this project to fruition.
+
+I extend my heartfelt thanks to **instructors** for their expert guidance, patience, and dedication in teaching the intricate concepts of AI application design. Their mentorship has been crucial in developing my understanding and capability in AI.
+
+This project represents the culmination of the comprehensive training and collaborative learning environment provided by AI Nusantara and Selangor Digital School. I am truly grateful for this opportunity and the remarkable experience that has shaped my journey in AI application design. Thank you for making this possible.
